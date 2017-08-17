@@ -1,2 +1,2 @@
 # myrepo
-commit1
+commit2
